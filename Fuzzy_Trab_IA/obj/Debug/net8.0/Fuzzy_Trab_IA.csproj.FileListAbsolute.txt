@@ -1,0 +1,15 @@
+C:\Users\artur\Documents\Inteligencia_Artificial\Fuzzy_Trab_IA\Fuzzy_Trab_IA\bin\Debug\net8.0\Fuzzy_Trab_IA.exe
+C:\Users\artur\Documents\Inteligencia_Artificial\Fuzzy_Trab_IA\Fuzzy_Trab_IA\bin\Debug\net8.0\Fuzzy_Trab_IA.deps.json
+C:\Users\artur\Documents\Inteligencia_Artificial\Fuzzy_Trab_IA\Fuzzy_Trab_IA\bin\Debug\net8.0\Fuzzy_Trab_IA.runtimeconfig.json
+C:\Users\artur\Documents\Inteligencia_Artificial\Fuzzy_Trab_IA\Fuzzy_Trab_IA\bin\Debug\net8.0\Fuzzy_Trab_IA.dll
+C:\Users\artur\Documents\Inteligencia_Artificial\Fuzzy_Trab_IA\Fuzzy_Trab_IA\bin\Debug\net8.0\Fuzzy_Trab_IA.pdb
+C:\Users\artur\Documents\Inteligencia_Artificial\Fuzzy_Trab_IA\Fuzzy_Trab_IA\obj\Debug\net8.0\Fuzzy_Trab_IA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\Documents\Inteligencia_Artificial\Fuzzy_Trab_IA\Fuzzy_Trab_IA\obj\Debug\net8.0\Fuzzy_Trab_IA.AssemblyInfoInputs.cache
+C:\Users\artur\Documents\Inteligencia_Artificial\Fuzzy_Trab_IA\Fuzzy_Trab_IA\obj\Debug\net8.0\Fuzzy_Trab_IA.AssemblyInfo.cs
+C:\Users\artur\Documents\Inteligencia_Artificial\Fuzzy_Trab_IA\Fuzzy_Trab_IA\obj\Debug\net8.0\Fuzzy_Trab_IA.csproj.CoreCompileInputs.cache
+C:\Users\artur\Documents\Inteligencia_Artificial\Fuzzy_Trab_IA\Fuzzy_Trab_IA\obj\Debug\net8.0\Fuzzy_Trab_IA.dll
+C:\Users\artur\Documents\Inteligencia_Artificial\Fuzzy_Trab_IA\Fuzzy_Trab_IA\obj\Debug\net8.0\refint\Fuzzy_Trab_IA.dll
+C:\Users\artur\Documents\Inteligencia_Artificial\Fuzzy_Trab_IA\Fuzzy_Trab_IA\obj\Debug\net8.0\Fuzzy_Trab_IA.pdb
+C:\Users\artur\Documents\Inteligencia_Artificial\Fuzzy_Trab_IA\Fuzzy_Trab_IA\obj\Debug\net8.0\Fuzzy_Trab_IA.genruntimeconfig.cache
+C:\Users\artur\Documents\Inteligencia_Artificial\Fuzzy_Trab_IA\Fuzzy_Trab_IA\obj\Debug\net8.0\ref\Fuzzy_Trab_IA.dll
+C:\Users\artur\Documents\Inteligencia_Artificial\Fuzzy_Trab_IA\Fuzzy_Trab_IA\bin\Debug\net8.0\movie_dataset.csv
