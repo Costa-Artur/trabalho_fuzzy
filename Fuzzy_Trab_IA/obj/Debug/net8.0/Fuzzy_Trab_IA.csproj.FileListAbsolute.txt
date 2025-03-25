@@ -13,3 +13,4 @@ C:\Users\artur\Documents\Inteligencia_Artificial\Fuzzy_Trab_IA\Fuzzy_Trab_IA\obj
 C:\Users\artur\Documents\Inteligencia_Artificial\Fuzzy_Trab_IA\Fuzzy_Trab_IA\obj\Debug\net8.0\Fuzzy_Trab_IA.genruntimeconfig.cache
 C:\Users\artur\Documents\Inteligencia_Artificial\Fuzzy_Trab_IA\Fuzzy_Trab_IA\obj\Debug\net8.0\ref\Fuzzy_Trab_IA.dll
 C:\Users\artur\Documents\Inteligencia_Artificial\Fuzzy_Trab_IA\Fuzzy_Trab_IA\bin\Debug\net8.0\movie_dataset.csv
+C:\Users\artur\Documents\Inteligencia_Artificial\Fuzzy_Trab_IA\Fuzzy_Trab_IA\obj\Debug\net8.0\Fuzzy_Trab_IA.sourcelink.json

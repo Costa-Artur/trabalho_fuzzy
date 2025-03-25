@@ -4,7 +4,7 @@ public class Filme
 {
     public string Nome;
     public float Rating;
-    public int Votos;
+    public float Votos;
     public List<string> Generos;
     public float ScoreFinal;
 }
